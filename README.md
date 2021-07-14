@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Daphne Foo__, a service oriented consultant with 14 years of experience working directly with clients from diverse socioeconomic backgrounds to define individual financial needs and formulate business recommendations. Easily instill trust and confidence in clients as evident by 92% of customer retention rate. Licensed MAS representative with Singapore College of Insurance certificates for Personal and General Life Insurance. .
 
 
 <!-- Add link to the sections -->
@@ -30,8 +30,8 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
+##### Prudential Assurance Company
+Senior Financial Consultant<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
